@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>About page</title>
-<p>this is about page</p>
+<p>this is the page</p>
 </head>
 <body>
 
